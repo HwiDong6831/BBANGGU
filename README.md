@@ -183,28 +183,14 @@
 
 # 3️⃣ 주요 기능
 
-## AI 프로젝트 기능 요약
-
-| YOLOv8s 카메라 인식 | AI 빵꾸러미 조합 추천 | AI 분석 리포트 제공 |
-|---|---|---|
-|<img src="https://github.com/user-attachments/assets/d11c13e8-1f81-437e-a4eb-fe1c3a27b70b" alt="YOLOv8s 카메라 인식" width="150"/> | <img src="https://github.com/user-attachments/assets/c6977939-ec05-4548-a88f-cc45e427eac6" alt="AI 빵꾸러미 조합 추천" width="150"/> | <img src="https://github.com/user-attachments/assets/cc3243c3-9a75-4b77-8f1d-0a71e4029854" alt="AI 분석 리포트 제공" width="150"/> |
-
-
 ## [1] 판매자
 
+
+
 ### 1. 빵꾸러미 생성
-
-#### - YOLOv8s 카메라 인식 (파인튜닝 모델)
-
-<img src="https://github.com/user-attachments/assets/d11c13e8-1f81-437e-a4eb-fe1c3a27b70b" alt="1-1-1" width="250"/>
-
-#### - AI 빵꾸러미 조합 추천 (탐욕 알고리즘)
-
-<img src="https://github.com/user-attachments/assets/c6977939-ec05-4548-a88f-cc45e427eac6" alt="1-1-2" width="250"/>
-
-### 2. AI 분석 리포트 제공
-
-<img src="https://github.com/user-attachments/assets/cc3243c3-9a75-4b77-8f1d-0a71e4029854" alt="1-2" width="250"/>
+| YOLOv8s 카메라 인식 | AI 빵꾸러미 조합 추천 | AI 분석 리포트 제공 |
+|---|---|---|
+|<img src="https://github.com/user-attachments/assets/d11c13e8-1f81-437e-a4eb-fe1c3a27b70b" alt="YOLOv8s 카메라 인식" width="200"/> | <img src="https://github.com/user-attachments/assets/c6977939-ec05-4548-a88f-cc45e427eac6" alt="AI 빵꾸러미 조합 추천" width="200"/> | <img src="https://github.com/user-attachments/assets/cc3243c3-9a75-4b77-8f1d-0a71e4029854" alt="AI 분석 리포트 제공" width="200"/> |
 
 <br>
 <br>
