@@ -202,5 +202,4 @@
 ## [3] 공통
 | PWA (Progressive Web App) | Kakao 로그인 (OAuth2) |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/b339f29b-ed81-42c0-972a-d829a97e3e86" alt="3-1" width="200"/> | 
-<img src="https://github.com/user-attachments/assets/a7c81ac1-d471-4686-9695-274e427c09a2" alt="3-2" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/b339f29b-ed81-42c0-972a-d829a97e3e86" alt="3-1" width="200"/> | <img src="https://github.com/user-attachments/assets/a7c81ac1-d471-4686-9695-274e427c09a2" alt="3-2" width="200"/> |
