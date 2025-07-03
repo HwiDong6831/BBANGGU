@@ -183,6 +183,15 @@
 
 # 3️⃣ 주요 기능
 
+## AI 프로젝트 기능 요약
+
+| 카테고리 | 기능 | 설명 | 이미지 |
+|---|---|---|---|
+| **핵심 기능** | **YOLOv8s 카메라 인식** | 파인튜닝된 모델을 활용한 카메라 인식 기능 | <img src="https://github.com/user-attachments/assets/d11c13e8-1f81-437e-a4eb-fe1c3a27b70b" alt="YOLOv8s 카메라 인식" width="150"/> |
+| | **AI 빵꾸러미 조합 추천** | 탐욕 알고리즘을 이용한 빵꾸러미 조합 추천 | <img src="https://github.com/user-attachments/assets/c6977939-ec05-4548-a88f-cc45e427eac6" alt="AI 빵꾸러미 조합 추천" width="150"/> |
+| **부가 기능** | **AI 분석 리포트 제공** | AI 분석 결과를 기반으로 리포트 제공 | <img src="https://github.com/user-attachments/assets/cc3243c3-9a75-4b77-8f1d-0a71e4029854" alt="AI 분석 리포트 제공" width="150"/> |
+
+
 ## [1] 판매자
 
 ### 1. 빵꾸러미 생성
