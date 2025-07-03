@@ -184,10 +184,6 @@
 # 3️⃣ 주요 기능
 
 ## [1] 판매자
-
-
-
-### 1. 빵꾸러미 생성
 | YOLOv8s 카메라 인식 | AI 빵꾸러미 조합 추천 | AI 분석 리포트 제공 |
 |---|---|---|
 |<img src="https://github.com/user-attachments/assets/d11c13e8-1f81-437e-a4eb-fe1c3a27b70b" alt="YOLOv8s 카메라 인식" width="200"/> | <img src="https://github.com/user-attachments/assets/c6977939-ec05-4548-a88f-cc45e427eac6" alt="AI 빵꾸러미 조합 추천" width="200"/> | <img src="https://github.com/user-attachments/assets/cc3243c3-9a75-4b77-8f1d-0a71e4029854" alt="AI 분석 리포트 제공" width="200"/> |
@@ -196,30 +192,15 @@
 <br>
 
 ## [2] 구매자
-
-### 1. 빵꾸러미 예약 (결제)
-
-#### - TOSS PAYMENTS API
-
-<img src="https://github.com/user-attachments/assets/455826e2-f407-438f-b8a4-ca05b4c44391" alt="2-1-1" width="250"/>
-
-### 2. 절약한 자원 확인
-
-<img src="https://github.com/user-attachments/assets/2bc62c4f-2ab6-4ad2-9ad1-bddbdfba3504" alt="2-2" width="250"/>
-
-### 3. 지도 (Kakao Map API)
-
-<img src="https://github.com/user-attachments/assets/ac489deb-b4b3-4ce2-9c31-4756587b00f7" alt="2-3" width="250"/>
+| 결제(토스 페이먼츠) | 절약한 자원 확인 | 지도(카카오 맵) |
+|---|---|---|
+| <img src="https://github.com/user-attachments/assets/455826e2-f407-438f-b8a4-ca05b4c44391" alt="2-1-1" width="200"/> | <img src="https://github.com/user-attachments/assets/2bc62c4f-2ab6-4ad2-9ad1-bddbdfba3504" alt="2-2" width="200"/> | <img src="https://github.com/user-attachments/assets/ac489deb-b4b3-4ce2-9c31-4756587b00f7" alt="2-3" width="200"/> |
 
 <br>
 <br>
 
 ## [3] 공통
-
-### 1. PWA (Progressive Web App)
-
-<img src="https://github.com/user-attachments/assets/b339f29b-ed81-42c0-972a-d829a97e3e86" alt="3-1" width="250"/>
-
-### 2. Kakao 로그인 (OAuth2)
-
-<img src="https://github.com/user-attachments/assets/a7c81ac1-d471-4686-9695-274e427c09a2" alt="3-2" width="250"/>
+| PWA (Progressive Web App) | Kakao 로그인 (OAuth2) |
+|---|---|
+| <img src="https://github.com/user-attachments/assets/b339f29b-ed81-42c0-972a-d829a97e3e86" alt="3-1" width="200"/> | 
+<img src="https://github.com/user-attachments/assets/a7c81ac1-d471-4686-9695-274e427c09a2" alt="3-2" width="200"/> |
